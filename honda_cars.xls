@@ -1,0 +1,8 @@
+﻿brand,model,variants,fuel,transmission,price_range_raw,is_discontinued,detail_url,scrape_date,price_min_lakh,price_max_lakh
+Honda,Honda City,N/A,Hybrid • Petrol Manual • Automatic,Manual • Automatic,N/A,False,https://ackodrive.com/cars/honda-city/,2025-12-07,,
+Honda,Honda Elevate,N/A,Petrol • Manual • Automatic,Manual • Automatic,N/A,False,https://ackodrive.com/cars/honda-elevate/,2025-12-07,,
+Honda,Honda Amaze,N/A,Petrol Manual • Automatic,Manual • Automatic,N/A,False,https://ackodrive.com/cars/honda-amaze/,2025-12-07,,
+Honda,Honda Amaze (2021-2024),N/A,Petrol Manual • Automatic,Manual • Automatic,N/A,False,https://ackodrive.com/cars/honda-amaze-2021-2024/,2025-12-07,,
+Honda,Honda WR-V (2020-2023),N/A,Petrol • Diesel Manual,Manual,N/A,False,https://ackodrive.com/cars/honda-wr-v-2020-2023/,2025-12-07,,
+Honda,Honda Jazz (2020-2023),N/A,Petrol Manual • Automatic,Manual • Automatic,N/A,False,https://ackodrive.com/cars/honda-jazz-2020-2023/,2025-12-07,,
+Honda,Honda City (2020-2023),N/A,Hybrid • Petrol • Diesel Manual • Automatic,Manual • Automatic,N/A,False,https://ackodrive.com/cars/honda-city-2020-2023/,2025-12-07,,
